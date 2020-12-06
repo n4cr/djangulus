@@ -1,6 +1,6 @@
 # Djangulus
 
-This is a very simple demonstration on how to use Django, SaaS, and Stimulus 2.0 bundled using webpack. 
+This is a very simple demonstration on how to use Django, Sass, and Stimulus 2.0 bundled using webpack. 
 
 ### How to use
 
@@ -13,7 +13,7 @@ yarn start
 
 ```
 
-You can import Saas files in app.scss to compose your styles. For javascript, simply define your controllers in controller folder and then use them in HTML. 
+You can import Sass files in app.scss to compose your styles. For javascript, simply define your controllers in controller folder and then use them in HTML. 
 
 ### Example controllers
 There are examples included to show how Stimulus 2.0 values API is used to pass context variables in the templates to controllers:
